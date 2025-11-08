@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment=Fallout76 Animated Splash Screen - TV Please Standby [kde6]
+Encoding=UTF-8
+Keywords=loop;load;fallout;fallout76;splashscreen;animated;
+Name=Fallout76 Animated Splash - Please Standby
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel/Splash
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=uuinc
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=joshua@uuinc.co
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Fallout76AnimatedSplash
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/joshuadoubleyou/fallout76-splash
+X-Plasma-MainScript=defaults

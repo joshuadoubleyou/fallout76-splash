@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+				"Email": "joshua@uuinc.co",
+				"Name": "UU"
+            }
+        ],
+        "Category": "",
+        "Description": "Fallout76 Animated Splash Screen - TV Please Standby [kde6]",
+        "Id": "fallout76-splash",
+		"License": "GPLv3",
+        "Name": "Fallout76 Animated Splash - Please Standby",
+		"Website": "https://github.com/joshuadoubleyou/fallout76-splash"
+    },
+    "Keywords": "loop;load;fallout;fallout76",
+    "X-Plasma-APIVersion": "2"
+}
