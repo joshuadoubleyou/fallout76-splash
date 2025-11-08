@@ -8,9 +8,9 @@
 		],
 		"Category": "Splashscreen",
 		"Description": "Fallout76 Animated Splash Screen - TV Please Standby",
-		"Id": "fallout-splash",
+		"Id": "fallout76-splash",
 		"License": "GPLv3",
-		"Name": "Fallout Animated Please Standby",
+		"Name": "fallout76-splash",
 		"ServiceTypes": ["Plasma/LookAndFeel/Splash"],
 		"Website": "https://github.com/joshuadoubleyou/fallout76-splash"
 	},
